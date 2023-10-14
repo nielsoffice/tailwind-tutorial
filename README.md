@@ -6,4 +6,9 @@ All the course files for the Tailwind CSS tutorial on the Net Ninja YouTube chan
  // installation 
  > npm init -y
  > npm install tailwindcss
+
+ > Create folder 
+   > src
+      > style.css
+   > public
 ```
